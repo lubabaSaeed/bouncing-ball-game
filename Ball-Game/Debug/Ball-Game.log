@@ -1,0 +1,64 @@
+﻿  Game.cpp
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(10,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(17,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(18,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(34,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(104,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(104,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(125,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(125,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(127,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(127,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(129,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(129,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(131,19): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(131,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(142,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(142,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(149,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(151,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(153,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(155,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(167,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(171,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(179,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(180,113): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(180,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(181,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(181,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(204,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(223,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(242,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(243,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(268,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(314,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(332,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(333,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(334,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(335,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(338,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(349,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(350,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(366,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(368,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(381,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(382,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(386,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(387,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(391,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(392,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(396,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(397,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(405,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(411,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(416,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(422,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(452,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(453,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(454,31): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(455,15): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(456,16): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(457,16): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(470,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Game.cpp(486,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Ball-Game.vcxproj -> C:\Users\pc\Downloads\ball_after_9ramdan\Ball__Game_project\Ball-Game\Debug\Ball-Game.exe
